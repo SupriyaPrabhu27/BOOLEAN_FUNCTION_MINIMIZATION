@@ -1,3 +1,6 @@
+
+## SUPRIYA PRABHU
+## 212224240165
 # EXP no :2  IMPLEMENTATION OF BOOLEAN FUNCTIONS
 
 
@@ -16,6 +19,7 @@ Hardware – PCs, Cyclone II , USB flasher
 **Software – Quartus prime**
 
 **Theory**
+
 Boolean Algebra is a branch of algebra that deals with boolean values—true and false. It is fundamental to digital logic design and computer science, providing a mathematical framework for describing logical operations and expressions.
 
 
